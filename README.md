@@ -1,3 +1,5 @@
+Project Explanation Loom Video : https://www.loom.com/share/deb30a1bfeda4cf5b895286f7ad6d95a
+
 ✅ Part 1: Data Cleaning and Management
 🔧 Functionalities Implemented:
 ✅ Created a SKUMapper class to map SKU → MSKU

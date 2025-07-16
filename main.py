@@ -1,3 +1,4 @@
+# this is for generate report based on direct file from master_data and sales_data
 import pandas as pd
 
 from sku_mapper import SKUMapping
